@@ -30,3 +30,6 @@ What is the best recipe & nutrition? View the recipes from [edamam´s API](https
 
 3. To run the app in development mode npm start, then open http://localhost:3000 to view it in the browser
 
+
+MADE BY ROHIT KUMAR
+
